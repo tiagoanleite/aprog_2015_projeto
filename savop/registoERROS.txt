@@ -1,0 +1,17 @@
+[2015-12-04 19:28:30.83 ] PROGRAMA INICIADO
+[2015-12-04 19:28:31.846] EVENTO: Escolhida opcão 1
+[2015-12-04 19:28:31.862] ERRO: A linha não contém o número de campos correcto
+[2015-12-04 19:28:31.863] ERRO: A linha não contém o número de campos correcto
+[2015-12-04 19:28:31.863] ERRO: O deputado FAR22 já existe
+[2015-12-04 19:28:31.863] AVISO: Existem 4 linhas em branco
+[2015-12-04 19:28:31.864] MENSAGEM: Estão 5 deputados em memória
+[2015-12-04 19:28:31.864] EVENTO: Lido o ficheiro deputados
+[2015-12-04 19:28:32.396] EVENTO: Escolhida opcão 2
+[2015-12-04 19:28:33.733] EVENTO: Escolhida opcão 4
+[2015-12-04 19:28:36.429] ERRO: Linha com tamanho incorrecto
+[2015-12-04 19:28:36.431] AVISO: Nem todos os deputados têm o voto registado
+[2015-12-04 19:28:36.431] EVENTO: Lido o assunto LEI_13_2015
+[2015-12-04 19:28:37.124] EVENTO: Escolhida opcão 8
+[2015-12-04 19:28:37.128] EVENTO: Criado ficheiro Pagina.html
+[2015-12-04 19:28:38.573] EVENTO: Escolhida opcão 0
+[2015-12-04 19:28:38.573] PROGRAMA TERMINADO

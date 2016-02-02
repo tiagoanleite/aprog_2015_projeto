@@ -1,0 +1,15 @@
+   PRT01   ;  Jorge Silva Gomes ; PartidoA;   19701212
+BRG03;Ana Cunha Santos; PartidoB; 19600607
+FAR69 ;   Maria  Jorge Gomes Gaspar;;198001s01
+FAR22 ;   Maria  Jorge Gomes Gaspar;   PartidoA;19800101
+FAR68 ;   Maria  Jorge Gomes Gaspar;   PartidoA;198001s01
+
+PRT03;Manuel Rui Costa;PartidoC;19710630
+VRL01; Artur Manuel Santos; PartidoA; 19850321
+
+VRL01; Artur Manuel Santos; PartidoA
+
+opiwrj
+
+FAR22 ;   ;   PartidoA;198001s01
+FAR67 ;   ;   PartidoA;198001s01

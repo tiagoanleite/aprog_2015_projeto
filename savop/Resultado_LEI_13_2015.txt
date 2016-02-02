@@ -1,0 +1,7 @@
+Votação de: LEI_13_2015
+
+PartidoA; Votos a favor:   2; Votos contra:   0; Abstenções:   0.
+PartidoB; Votos a favor:   0; Votos contra:   0; Abstenções:   1.
+PartidoC; Votos a favor:   1; Votos contra:   0; Abstenções:   0.
+
+Totais;   Votos a favor:   3; Votos contra:   0; Abstenções:   1.
